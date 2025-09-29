@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: d2abd79db66c9304cb00e46cef59e011
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2207464688104021704
+    second: GAME OVER!!!_0
+  - first:
+      213: -6337142333283595004
+    second: GAME OVER!!!_1
+  - first:
+      213: -7111943370794687752
+    second: GAME OVER!!!_2
+  - first:
+      213: 6865427665818119655
+    second: GAME OVER!!!_3
+  - first:
+      213: 9122098300121062817
+    second: GAME OVER!!!_4
+  - first:
+      213: -1925521736465939571
+    second: GAME OVER!!!_5
+  - first:
+      213: 4940670535159599438
+    second: GAME OVER!!!_6
+  - first:
+      213: 6479716182032789337
+    second: GAME OVER!!!_7
+  - first:
+      213: 3978323695157495897
+    second: GAME OVER!!!_8
+  - first:
+      213: -5140791136159464008
+    second: GAME OVER!!!_9
+  - first:
+      213: -2290450160111811747
+    second: GAME OVER!!!_10
+  - first:
+      213: 7076725969922115394
+    second: GAME OVER!!!_11
+  - first:
+      213: -2306447081824276749
+    second: GAME OVER!!!_12
+  - first:
+      213: 7343829034154257431
+    second: GAME OVER!!!_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GAME OVER!!!_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 780
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8316753df828d51e0800000000000000
+      internalID: -2207464688104021704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER!!!_1
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 12
+        width: 856
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d8a8d9f92fd08a0800000000000000
+      internalID: -6337142333283595004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER!!!_2
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 12
+        width: 957
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2a6195f2d4d4d90800000000000000
+      internalID: -7111943370794687752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER!!!_3
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 12
+        width: 600
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed6a346616e64f50800000000000000
+      internalID: 6865427665818119655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER!!!_4
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 0
+        width: 808
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad19e0b214389e70800000000000000
+      internalID: 9122098300121062817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER!!!_5
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 12
+        width: 857
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8387aabe2c2745e0800000000000000
+      internalID: -1925521736465939571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER!!!_6
+      rect:
+        serializedVersion: 2
+        x: 5519
+        y: 12
+        width: 599
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e415d68cca9c09440800000000000000
+      internalID: 4940670535159599438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER!!!_7
+      rect:
+        serializedVersion: 2
+        x: 6227
+        y: 12
+        width: 695
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f2a6b59839ce950800000000000000
+      internalID: 6479716182032789337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER!!!_8
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 270
+        width: 229
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958c16b9258d53730800000000000000
+      internalID: 3978323695157495897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER!!!_9
+      rect:
+        serializedVersion: 2
+        x: 7428
+        y: 270
+        width: 229
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b50db0e2bd38a8b0800000000000000
+      internalID: -5140791136159464008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER!!!_10
+      rect:
+        serializedVersion: 2
+        x: 7833
+        y: 270
+        width: 228
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d538cc6f6bfa630e0800000000000000
+      internalID: -2290450160111811747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER!!!_11
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 0
+        width: 229
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2474df986c4953260800000000000000
+      internalID: 7076725969922115394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER!!!_12
+      rect:
+        serializedVersion: 2
+        x: 7428
+        y: 0
+        width: 229
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fea0a2699addffd0800000000000000
+      internalID: -2306447081824276749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER!!!_13
+      rect:
+        serializedVersion: 2
+        x: 7833
+        y: 0
+        width: 228
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ce6f7e8958ae560800000000000000
+      internalID: 7343829034154257431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GAME OVER!!!_0: -2207464688104021704
+      GAME OVER!!!_1: -6337142333283595004
+      GAME OVER!!!_10: -2290450160111811747
+      GAME OVER!!!_11: 7076725969922115394
+      GAME OVER!!!_12: -2306447081824276749
+      GAME OVER!!!_13: 7343829034154257431
+      GAME OVER!!!_2: -7111943370794687752
+      GAME OVER!!!_3: 6865427665818119655
+      GAME OVER!!!_4: 9122098300121062817
+      GAME OVER!!!_5: -1925521736465939571
+      GAME OVER!!!_6: 4940670535159599438
+      GAME OVER!!!_7: 6479716182032789337
+      GAME OVER!!!_8: 3978323695157495897
+      GAME OVER!!!_9: -5140791136159464008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

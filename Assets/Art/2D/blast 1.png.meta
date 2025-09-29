@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 079b034868edd78439bea137d8067ea6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2333823786064682851
+    second: blast_0
+  - first:
+      213: -1336836117218534164
+    second: blast_1
+  - first:
+      213: 4789823921600395768
+    second: blast_2
+  - first:
+      213: -4559260048439676392
+    second: blast_3
+  - first:
+      213: 2347272176253215000
+    second: blast_4
+  - first:
+      213: -5305077119124292880
+    second: blast_5
+  - first:
+      213: -4140868470218374511
+    second: blast_6
+  - first:
+      213: -6130064538518161896
+    second: blast_7
+  - first:
+      213: 5951307428146594151
+    second: blast_8
+  - first:
+      213: -7590982157946157090
+    second: blast_9
+  - first:
+      213: 68379198610801408
+    second: blast_10
+  - first:
+      213: 1586454199090277823
+    second: blast_11
+  - first:
+      213: -7030672729816696874
+    second: blast_12
+  - first:
+      213: 2925107029864854801
+    second: blast_13
+  - first:
+      213: -4647983792791334318
+    second: blast_14
+  - first:
+      213: 6046592624897227177
+    second: blast_15
+  - first:
+      213: 8852588581170396019
+    second: blast_16
+  - first:
+      213: 437024445573759004
+    second: blast_17
+  - first:
+      213: 521889199237729804
+    second: blast_18
+  - first:
+      213: -3347386643959820798
+    second: blast_19
+  - first:
+      213: -1711436193930888311
+    second: blast_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blast_0
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 5518
+        width: 1489
+        height: 1450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90e147b1a79c9fd0800000000000000
+      internalID: -2333823786064682851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blast_1
+      rect:
+        serializedVersion: 2
+        x: 5196
+        y: 5251
+        width: 1928
+        height: 1908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecd64e52aa927de0800000000000000
+      internalID: -1336836117218534164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blast_2
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 693
+        width: 2760
+        height: 3004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9f8a7aa7fd87240800000000000000
+      internalID: 4789823921600395768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blast_3
+      rect:
+        serializedVersion: 2
+        x: 4551
+        y: 426
+        width: 3306
+        height: 3556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8127f1654214ab0c0800000000000000
+      internalID: -4559260048439676392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 103b33c6e5e8e1d42aab702ac4ea925e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":1,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      blast_0: -2333823786064682851
+      blast_1: -1336836117218534164
+      blast_10: 68379198610801408
+      blast_11: 1586454199090277823
+      blast_12: -7030672729816696874
+      blast_13: 2925107029864854801
+      blast_14: -4647983792791334318
+      blast_15: 6046592624897227177
+      blast_16: 8852588581170396019
+      blast_17: 437024445573759004
+      blast_18: 521889199237729804
+      blast_19: -3347386643959820798
+      blast_2: 4789823921600395768
+      blast_20: -1711436193930888311
+      blast_21: 1014802303
+      blast_22: 512798820
+      blast_23: -353322314
+      blast_24: -502454131
+      blast_25: 435239755
+      blast_26: 825157806
+      blast_27: -1569049387
+      blast_28: 47462242
+      blast_29: 289191392
+      blast_3: -4559260048439676392
+      blast_30: -1192356375
+      blast_31: 931297702
+      blast_32: 254409722
+      blast_33: -1897078044
+      blast_34: 1883265094
+      blast_35: -992644454
+      blast_36: -1670541899
+      blast_37: 743421881
+      blast_38: 607420122
+      blast_39: -1816167347
+      blast_4: 2347272176253215000
+      blast_40: 1927469475
+      blast_41: -209163346
+      blast_42: -15037065
+      blast_43: -1605639222
+      blast_44: 1658703428
+      blast_45: -320329248
+      blast_46: 802640228
+      blast_47: 1508699544
+      blast_48: 1374925779
+      blast_49: -1367177216
+      blast_5: -5305077119124292880
+      blast_50: -417999407
+      blast_51: -937656485
+      blast_52: -1203001426
+      blast_53: 1725926202
+      blast_54: -1781165908
+      blast_6: -4140868470218374511
+      blast_7: -6130064538518161896
+      blast_8: 5951307428146594151
+      blast_9: -7590982157946157090
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
