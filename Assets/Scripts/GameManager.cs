@@ -19,7 +19,14 @@ public class GameManager : MonoBehaviour
             Destroy(gameObject);
         }
     }
+    private const string tutorialStatus="Tutorial";
 
+    public static bool isTutorialShown
+    {
+        get => PlayerPrefs.GetInt(tutorialStatus,0) == 1;
+        set => PlayerPrefs.SetInt(tutorialStatus, value ? 1 : 0); 
+    }
+    
     private string highScoreKey = "HighScore";
 
     public int HighScore

@@ -17,12 +17,13 @@ public class AudioManager : MonoBehaviour
 
     public bool musicIsInMute { get; private set; }
     public bool sfxIsInMute { get; private set; }
-
+    
+    
     private void Awake()
     {
         if (Instance != null && Instance != this)
         {
-            Destroy(gameObject); // Corrected: destroy the GameObject, not just 'this'
+            Destroy(gameObject); 
             return;
         }
         else
